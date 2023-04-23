@@ -1,0 +1,119 @@
+/* Global styles */
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* Header styles */
+
+.navbar {
+  padding: 0.5rem 1rem;
+  background-color: transparent;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  padding: 0.5rem 1rem;
+}
+
+.nav-link:hover {
+  color: #00d5d5;
+}
+
+/* Banner section styles */
+#banner {
+  background: linear-gradient(135deg, #2d5be3 40%, #00d515 100%);
+  color: #ffffff;
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#banner p {
+  font-size: 1.5rem;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+/* About section styles */
+
+#about {
+  background: linear-gradient(135deg, #1b683e 20%, #0bbd2b 60%, #b32121 100%);
+  color: #ffffff;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#about h2 {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
+
+#about p {
+  font-size: 1.2rem;
+  max-width: 80%;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+}
+
+/* Skills section styles */
+
+#skills {
+  background: linear-gradient(135deg,#681b1b 40%, #12265c 60%, #5d5326 100%);
+  padding: 200px 0;
+  text-align: center;
+}
+
+#skills h2 {
+  font-size: 3rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #f2f2f2;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+}
+
+#skills ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#skills li {
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding: 10px 20px;
+  margin: 20px;
+  background-color: #333;
+  box-shadow: 0px 5px 10px rgba(51, 51, 51, 0.3);
+}
+
+
+
+/* Contact section styles */
+
+#contact {
+  background: linear-gradient(135deg,#68491b 40%, #12265c 60%, #412a6c 100%);
+  color: #ffffff;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
