@@ -28,7 +28,7 @@ body {
 
 /* Banner section styles */
 #banner {
-  background: linear-gradient(135deg, #2d5be3 40%, #00d515 100%);
+  background: linear-gradient(135deg, #2d5be3 40%, #1b683e 80%);
   color: #ffffff;
   min-height: 70vh;
   display: flex;
@@ -46,7 +46,7 @@ body {
 /* About section styles */
 
 #about {
-  background: linear-gradient(135deg, #1b683e 20%, #0bbd2b 60%, #b32121 100%);
+  background: linear-gradient(135deg, #1b683e 20%, #0bbd2b 60%, #b32121 80%);
   color: #ffffff;
   min-height: 50vh;
   display: flex;
@@ -70,7 +70,7 @@ body {
 /* Skills section styles */
 
 #skills {
-  background: linear-gradient(135deg,#681b1b 40%, #12265c 60%, #5d5326 100%);
+  background: linear-gradient(135deg,#b32121 20%, #12265c 60%, #5d5326 80%);
   padding: 200px 0;
   text-align: center;
 }
@@ -105,7 +105,7 @@ body {
 /* Contact section styles */
 
 #contact {
-  background: linear-gradient(135deg,#68491b 40%, #12265c 60%, #412a6c 100%);
+  background: linear-gradient(135deg,#5d5326 40%, #0b101e 60%, #412a6c 100%);
   color: #ffffff;
   min-height: 50vh;
   display: flex;
